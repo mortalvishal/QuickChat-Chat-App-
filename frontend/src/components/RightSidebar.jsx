@@ -2,7 +2,7 @@ import React from 'react'
 
 const RightSidebar = () => {
   return (
-    <div className='' >
+    <div className='bg-black flex' >
         RightSidebar
     </div>
   )
